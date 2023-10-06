@@ -24,7 +24,7 @@ export const transformToSocketData = (task, profile, settings, proxyGroup) => {
     },
     discord: {
       webhook:
-        'https://discord.com/api/webhooks/886982959008210994/5d67-kdJ5aCKvVZh4nJnqJVAn_yuZLiiSOu2ZQd1z7XcLFa8jVxDCY367jonShS7ZiKo',
+        '##',
       userId: '584472236812140545',
       userTag: '2725',
       userName: 'IHateTomLrge',
